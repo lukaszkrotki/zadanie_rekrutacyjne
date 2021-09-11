@@ -21,7 +21,7 @@ body {
 }
 
 .showcase {
-  background: url('../img/NewGroup0-16.png') no-repeat;
+  background: url('img/NewGroup0-16.png') no-repeat;
 }
 .showcase .lead {
   font-weight: 400;
@@ -30,11 +30,11 @@ body {
   font-size: 2rem;
 }
 .showcase__img {
-  background: url('../img/Group502.png') no-repeat center center/cover;
+  background: url('img/Group502.png') no-repeat center center/cover;
 }
 
 .main {
-  background: url('../img/Inteligentnyobiektwektorowy.png') no-repeat bottom -15%
+  background: url('img/Inteligentnyobiektwektorowy.png') no-repeat bottom -15%
     left 10%;
 }
 .main__heading {
