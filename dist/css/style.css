@@ -148,3 +148,14 @@ body {
 .footer .list-group a:hover {
   color: #29af8a;
 }
+
+
+@media (max-width: 768px) {
+    .card__title {
+      font-size: 0.9rem;
+    }
+    .card__text {
+      font-size: 14px;
+    }
+  
+}
